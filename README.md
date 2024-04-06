@@ -24,4 +24,4 @@ scipy==1.10.1
 
 ### Technical Notes
 The PointCloudProcessor class has been initially implemented for point cloud data processing. However, due to the need for parameter tuning to optimize data retention, this class is currently not in use.
-To ensure consistent performance, direct lane detection methods have been applied, bypassing the PointCloudProcessor class.
+To ensure consistent performance, direct lane detection methods have been applied, bypassing the PointCloudProcessor class. Find details in the attached report.
